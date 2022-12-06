@@ -1,0 +1,45 @@
+2022-12-06 15:53:15 INFO  CustomerService:50 - Service for get Customer by emailjaadu@gmail.com
+2022-12-06 15:53:15 INFO  CustomerController:55 - Customer get Login
+2022-12-06 15:53:15 INFO  ComplaintService:39 - Service-get InProcess Comlaint By Id
+2022-12-06 15:53:15 INFO  ComplaintService:46 - Service-get Solved Comlaint By Id
+2022-12-06 15:53:15 INFO  ComplaintService:53 - Service-get History for Customer 
+2022-12-06 15:53:41 INFO  CustomerService:50 - Service for get Customer by emailjaadu@gmail.com
+2022-12-06 15:53:41 INFO  ComplaintService:39 - Service-get InProcess Comlaint By Id
+2022-12-06 15:53:41 INFO  ComplaintService:46 - Service-get Solved Comlaint By Id
+2022-12-06 15:53:41 INFO  ComplaintService:53 - Service-get History for Customer 
+2022-12-06 15:53:41 INFO  CustomerController:100 - Complaint History Customer
+2022-12-06 15:53:42 INFO  CustomerService:50 - Service for get Customer by emailjaadu@gmail.com
+2022-12-06 15:53:42 INFO  CustomerController:55 - Customer get Login
+2022-12-06 15:53:42 INFO  ComplaintService:39 - Service-get InProcess Comlaint By Id
+2022-12-06 15:53:42 INFO  ComplaintService:46 - Service-get Solved Comlaint By Id
+2022-12-06 15:53:42 INFO  ComplaintService:53 - Service-get History for Customer 
+2022-12-06 15:53:43 INFO  CustomerService:50 - Service for get Customer by emailjaadu@gmail.com
+2022-12-06 15:53:43 INFO  CustomerController:55 - Customer get Login
+2022-12-06 15:53:43 INFO  ComplaintService:39 - Service-get InProcess Comlaint By Id
+2022-12-06 15:53:43 INFO  ComplaintService:46 - Service-get Solved Comlaint By Id
+2022-12-06 15:53:43 INFO  ComplaintService:53 - Service-get History for Customer 
+2022-12-06 15:53:45 INFO  CustomerService:50 - Service for get Customer by emailjaadu@gmail.com
+2022-12-06 15:53:45 INFO  ComplaintService:39 - Service-get InProcess Comlaint By Id
+2022-12-06 15:53:45 INFO  ComplaintService:46 - Service-get Solved Comlaint By Id
+2022-12-06 15:53:45 INFO  ComplaintService:53 - Service-get History for Customer 
+2022-12-06 15:53:45 INFO  CustomerController:100 - Complaint History Customer
+2022-12-06 15:53:46 INFO  CustomerService:50 - Service for get Customer by emailjaadu@gmail.com
+2022-12-06 15:53:46 INFO  CustomerController:55 - Customer get Login
+2022-12-06 15:53:46 INFO  ComplaintService:39 - Service-get InProcess Comlaint By Id
+2022-12-06 15:53:46 INFO  ComplaintService:46 - Service-get Solved Comlaint By Id
+2022-12-06 15:53:46 INFO  ComplaintService:53 - Service-get History for Customer 
+2022-12-06 15:53:50 INFO  CustomerService:50 - Service for get Customer by emailjaadu@gmail.com
+2022-12-06 15:53:50 INFO  CustomerController:55 - Customer get Login
+2022-12-06 15:53:50 INFO  ComplaintService:39 - Service-get InProcess Comlaint By Id
+2022-12-06 15:53:50 INFO  ComplaintService:46 - Service-get Solved Comlaint By Id
+2022-12-06 15:53:50 INFO  ComplaintService:53 - Service-get History for Customer 
+2022-12-06 15:53:51 INFO  CustomerService:50 - Service for get Customer by emailjaadu@gmail.com
+2022-12-06 15:53:51 INFO  ComplaintService:39 - Service-get InProcess Comlaint By Id
+2022-12-06 15:53:51 INFO  ComplaintService:46 - Service-get Solved Comlaint By Id
+2022-12-06 15:53:51 INFO  ComplaintService:53 - Service-get History for Customer 
+2022-12-06 15:53:51 INFO  CustomerController:100 - Complaint History Customer
+2022-12-06 15:53:52 INFO  CustomerService:50 - Service for get Customer by emailjaadu@gmail.com
+2022-12-06 15:53:52 INFO  CustomerController:55 - Customer get Login
+2022-12-06 15:53:52 INFO  ComplaintService:39 - Service-get InProcess Comlaint By Id
+2022-12-06 15:53:52 INFO  ComplaintService:46 - Service-get Solved Comlaint By Id
+2022-12-06 15:53:52 INFO  ComplaintService:53 - Service-get History for Customer 
